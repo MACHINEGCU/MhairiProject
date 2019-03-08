@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "470673968500",
+    "firebase_url": "https://mhairi-honours.firebaseio.com",
+    "project_id": "mhairi-honours",
+    "storage_bucket": "mhairi-honours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470673968500:android:54a61d532ab89377",
+        "android_client_info": {
+          "package_name": "com.example.mhairistewart.honours_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470673968500-k4bufogfn569pkc2m03qhj0vrmeda52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArcqRxXJe5qCYEcb7bcrYmDPk-KsONe1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Fri Mar 08 14:33:57 GMT 2019
+base.0=/home/ryan/Git/mhairi-firebase/honours_proj/Honours_proj/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
